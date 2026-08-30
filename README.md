@@ -24,7 +24,3 @@ An interactive Power BI dashboard designed to analyze supply chain performance, 
 - Geographic Performance
 # Conclusion
 The dashboard transforms raw supply chain data into actionable insights by highlighting delivery delays, regional and shipping-mode performance, and profitability patterns. It supports data-driven decisions to improve delivery efficiency and overall supply chain performance.
-
-## 👩‍💻 Author
-**Ayesha Siddique**  
-B.Sc. Data Science | Aspiring Data Analyst
